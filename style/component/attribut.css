@@ -1,0 +1,11 @@
+
+
+.attribut { 
+    margin-top: 10rem;
+    font-size: var(--size-sm); 
+    text-align: center; 
+}
+
+.attribut a { 
+    color: hsl(228, 45%, 44%); 
+}
